@@ -76,7 +76,7 @@ sequenceDiagram
 
 3.  **Run the application:**
     ```bash
-    python 2_openai/deep_research/deep_research.py
+    python deep_research.py
     ```
     This will launch a Gradio interface in your browser.
 
